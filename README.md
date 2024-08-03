@@ -20,5 +20,4 @@ Also the same implementation using [Turso](https://turso.tech/)
 
 - CRUD operations for a simple data model
 
-### Remember to add your .env file with your database credentials
-
+### Remember to add your ".env" file with your database credentials
